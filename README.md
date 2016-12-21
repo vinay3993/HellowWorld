@@ -1,2 +1,3 @@
 # HellowWorld
-Learning github
+
+sysout("Hellow World");
